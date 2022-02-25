@@ -1,8 +1,8 @@
 library(EnvStats)
-E=10
-Var=4
-K=250
-S=10
+E=10 # Expectation Value
+Var=4 # Variance
+K=250 # Kurtosis
+S=10 # Skewness
 
 #Weibull
 
